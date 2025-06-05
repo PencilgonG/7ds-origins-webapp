@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Test de Meliodas Crit",
+    "description": "Mesure de l’impact du critique sur le passif",
+    "result": "+47% sur tour 3"
+  },
+  {
+    "title": "Test de Vol d’ATK",
+    "description": "Empêchement de scaling d’Escanor par réduction",
+    "result": "Aucun scaling observé"
+  }
+]
