@@ -1,12 +1,10 @@
-import AppRouter from "./router/AppRouter";
-import ChatBox from "./components/chat/ChatBox";
-import "./index.css";
+import React from 'react';
+import AppRouter from './router/AppRouter';  // Vérifie ce chemin d'importation
 
-function App() {
+const App = () => {
   return (
-    <div className="font-sans">
+    <div>
       <AppRouter />
-      <ChatBox />
     </div>
   );
 }
