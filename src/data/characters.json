@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Meliodas",
+    "type": "Démon",
+    "role": "Attaque"
+  },
+  {
+    "name": "Diane",
+    "type": "Géant",
+    "role": "Tank"
+  },
+  {
+    "name": "Ban",
+    "type": "Humain",
+    "role": "Vol de stats"
+  }
+]
