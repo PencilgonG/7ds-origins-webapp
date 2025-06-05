@@ -1,0 +1,26 @@
+[
+  {
+    "perso": "Meliodas",
+    "skill": "Full Counter",
+    "stat": "ATK",
+    "valeurs": {
+      "test": 3200,
+      "simulation": 3100,
+      "scaling": 3000
+    },
+    "fiabilite": 92,
+    "anomalie": false
+  },
+  {
+    "perso": "Diane",
+    "skill": "Earthquake",
+    "stat": "DEF",
+    "valeurs": {
+      "test": 2400,
+      "simulation": 2600,
+      "scaling": 1500
+    },
+    "fiabilite": 61,
+    "anomalie": true
+  }
+]
