@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';  // Assure-toi que App.jsx est bien importé
-import './index.css';  // Si tu utilises un fichier CSS global
+import App from './App';  // Assure-toi que ce chemin est correct
+import './index.css';
 
-const root = ReactDOM.createRoot(document.getElementById('root')); // Assure-toi d'avoir un élément avec id "root" dans ton HTML
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
